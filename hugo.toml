@@ -1,6 +1,4 @@
 baseURL = 'https://vladdp.github.io/vladdp_pages'
-relativeURLs = true
-canonifyURLs = false
 languageCode = 'en-us'
 title = 'Vlad P'
 theme = 'hugo-book'
