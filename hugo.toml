@@ -1,0 +1,21 @@
+baseURL = '/'
+relativeURLs = true
+languageCode = 'en-us'
+title = 'Vlad P'
+theme = 'hugo-book'
+
+
+# hugo-pook config (refer to documentation)
+
+[params]
+    BookTheme = 'light'
+    BookToC = false
+    BookSearch = true
+    BookComments = false
+
+
+# image cache location
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
