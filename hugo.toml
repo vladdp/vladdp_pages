@@ -1,4 +1,4 @@
-baseURL = 'https://vladdp.github.io/vladdp_pages/'
+baseURL = 'https://vladdp.github.io/'
 relativeURLs = true
 languageCode = 'en-us'
 title = 'Vlad P'
